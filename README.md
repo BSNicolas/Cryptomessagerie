@@ -9,6 +9,7 @@ Cryptomessagerie
 ## Description
 
 Code simulant une messagerie avec cryptographie post-quantique.
+Projet réalisé à l'ESIEA en binôme.
 
 
 ## Installation pour Windows
